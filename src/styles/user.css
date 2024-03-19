@@ -1,0 +1,29 @@
+.user-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 20px;
+  }
+  .full5
+  {
+    background-color: aquamarine;
+  }
+  .user-item {
+    border: 1px solid #ccc;
+    padding: 5px;
+    text-align: center;
+  }
+  
+.user-item img {
+    width: 100%;
+    height: auto;
+  }
+  
+  .user-item h1 {
+    margin-top: 10px;
+    margin-bottom: 5px;
+  }
+  
+  .user-item p {
+    margin-bottom: 10px;
+  }
+  

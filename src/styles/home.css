@@ -1,0 +1,21 @@
+.homee
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+    padding:20px;
+    justify-content: space-around;
+    list-style-type: none;
+}
+.homee a{
+    text-decoration: none;
+    color: brown;
+}
+.full3
+{
+    background-color: aquamarine;
+}
+
+.homee a .active{
+    background-color: rgb(235, 229, 226);
+}
